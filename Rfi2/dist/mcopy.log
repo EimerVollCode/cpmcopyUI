@@ -1,0 +1,26 @@
+﻿APP1000I Compart DocBridge Mill/cpmcopy - Mixed File Format Copy
+APP1001I Release:       202401-STABLE
+APP1002I App Version:   1.28.84201851a905[PROD][cs]
+APP1009I Cplib Version: 5edf9defaa56
+APP1003I Built:         2023-12-20 16:37:07
+APP1004I Platform:      WIN64 [64]
+APP1011I Host Name:     CP1495
+APP1007I Architecture:  X86
+APP1008I Processors:    4
+APP1005I OS:            Windows 10 (10.0)
+APP1013I Encoding:      windows-1252
+APP1014I Time Zone:     UTC+01:00
+APP1006I Copyright (C) Compart GmbH 2000-2023
+MCP2000I Program started
+LIC4209I License file 'c:\tools\cplicenses\cpmill.lic' being used
+LIC4213I License serial number is '030003715'
+LIC4223I License version is '1.0'
+LIC4210I License is not bound to a specific host name
+LIC4212I License characteristics for this computer are type 'evaluation', role 'server'
+LIC4204I License valid through '2024-02-29'
+LIC4216I License issue date is '2023-06-29'
+LIC4218I License last modified date is '2023-06-29'
+MFF4005I This software uses libraries from the FFmpeg project under the LGPLv2.1
+MCP2330W Detected input group without specified file name
+MCP2461F Output file can't be determined by the input information
+MCP2001I Program stopped (Rc='2461')
