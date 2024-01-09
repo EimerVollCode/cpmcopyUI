@@ -481,7 +481,7 @@ private boolean isWindows;
 
     private void jMenuItemHelpAboutActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItemHelpAboutActionPerformed
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(this, "Very simple Java application to call Compart cpmcopy on the command line by Reinhard Fischer.", "Reinhard Fischer's cpmcopy ui", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(this, "Very simple Java application to call Compart cpmcopy on the command line by Reinhard Fischer.", "Reinhard Fischer's cpmcopy ui build 20240107", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_jMenuItemHelpAboutActionPerformed
 
     private void jButtonOpenResultActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonOpenResultActionPerformed
